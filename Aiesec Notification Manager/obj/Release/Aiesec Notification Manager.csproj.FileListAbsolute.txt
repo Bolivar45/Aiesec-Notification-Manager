@@ -1,0 +1,35 @@
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Aiesec Notification Manager.exe.config
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Aiesec Notification Manager.exe
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Aiesec Notification Manager.pdb
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec_Notification_Manager.Form1.resources
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec_Notification_Manager.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec Notification Manager.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec Notification Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec Notification Manager.exe
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec Notification Manager.pdb
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\obj\Release\Aiesec Notification Manager.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\HtmlAgilityPack.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\JetBrains.Annotations.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Telegram.Bot.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\VkNet.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\HtmlAgilityPack.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\JetBrains.Annotations.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Newtonsoft.Json.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\Telegram.Bot.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\VkNet.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\EntityFramework.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\EntityFramework.xml
+C:\Users\Bolivar\Desktop\c#\Aiesec Notification Manager\Aiesec Notification Manager\Aiesec Notification Manager\bin\Release\EntityFramework.SqlServer.xml
